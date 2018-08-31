@@ -1,0 +1,8 @@
+{
+  "name": "Vuejs-POC",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:DiegoVeronezi/Vuejs-POC.git",
+  "author": "Diego Veronezi <diegoveronezi70@gmail.com>",
+  "license": "MIT"
+}
